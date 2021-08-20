@@ -1,1 +1,1 @@
-![Reflector sample](https://imgur.com/a/P5FoMIu.gif)
+![Demo](https://media.giphy.com/media/dj0RlrNmojJpalm061/giphy.gif=)
