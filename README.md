@@ -1,1 +1,1 @@
-![Reflector sample](https://imgur.com/a/P5FoMIu)
+![Reflector sample](https://imgur.com/a/P5FoMIu.gif)
