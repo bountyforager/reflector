@@ -17,7 +17,7 @@ class _ReflectorState extends State<Reflector> {
   @override
   void initState() {
     super.initState();
-    print('bountyforagers');
+    print('bountyforagerss');
 
     // Start listening to changes.
     textInput.addListener(_clearReflection);
